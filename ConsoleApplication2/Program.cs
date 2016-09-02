@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2
 {
-    class Programsad
+    class Programsadskitunge
     {
         static void Main(string[] args)
         {
